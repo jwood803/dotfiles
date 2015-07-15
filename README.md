@@ -3,4 +3,4 @@ Repository for the dotfiles to include installation and such.
 
 Keep
 
-Delete
+Just removed
